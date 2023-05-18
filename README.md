@@ -2,10 +2,6 @@
 
 [![qiuzhangsaer's github stats](https://github-readme-stats.vercel.app/api?username=qiuzhangsaer&show_icons=true&theme=radical)](https://github.com/qiuzhangsaer)
 
-## Contribution Graph
-
-[![qiuzhangsaer's github contribution](https://activity-graph.herokuapp.com/graph?username=qiuzhangsaer&theme=github)](https://github.com/qiuzhangsaer)
-
 ## 📫 How to reach me
 
 - Email：admin@xvkes.cn
